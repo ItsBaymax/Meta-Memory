@@ -1,0 +1,274 @@
+UUID,Seq ID,Question,"Timestamp with answer","Type (binary, position, time, text)",Text answer,Parsable answer,"Question Category"
+0_Basic_3fsczxzf,0,"Where is the bookshelf?",1749623554.303513,position,,[position],spatial
+0_Basic_v3dssdff,0,"Where is the glass cabinet located?",1749623597.700569,position,,[position],spatial
+0_Basic_vdfsd5ff,0,"Where can I find a group photo?",1749623628.698467,position,,[position],spatial
+0_Basic_sdvsd4fg,0,"Where can I find a red umbrella?",1749623436.511464,position,,[position],spatial
+0_Basic_cfgdrasd,0,"Where can I find a black bar stool?",1749623600.800358,position,,[position],spatial
+0_Basic_dfdhfg54,0,"Where did I put my white ceramic cup?",1749623501.607085,position,,[position],spatial
+0_Basic_fgddsf6f,0,"Where can I find a brown wooden cabinet?",1749623653.496764,position,,[position],spatial
+0_Basic_4563fsaz,0,"Where is a pile of wooden crates?",1749623787.887634,position,,[position],spatial
+0_Basic_2394hgas,0,"Where is the staircase that goes only upstairs?",1749623741.590790,position,,[position],spatial
+0_Basic_9867asdo,0,"Where is the construction or renovation taking place?",1749623472.009069,position,,[position],spatial
+0_Basic_7834adsj,0,"Where can I find a two-tier refrigerator?",1749623653.496764,position,,[position],spatial
+0_Basic_7345wehj,0,"Where can I find cartoon portraits?",1749623700.393572,position,,[position],spatial
+0_Basic_2392fewc,0,"Where can I find a red Chinese knot?",1749623616.299296,position,,[position],spatial
+0_Basic_2234r34r,0,"Where is a spiral staircase?",1749623558.403227,position,,[position],spatial
+0_Basic_3424gd5t,0,"Where is the mascot of the Electrical Engineering Department?",1749623495.407502,position,,[position],spatial
+0_Local_sdgf4fe3,0,"Where is the room that has a refrigerator, a microwave, and a window?",1749623502.906983,position,,[position],spatial
+0_Local_dfdfe32f,0,"Where is the room that has a refrigerator, a microwave, and a kettle?",1749623654.396703,position,,[position],spatial
+0_Local_hnghgfw4,0,"There is a bright window around me, an unoccupied chair, and a black sofa nearby. Could you tell me where I might be right now?",1749623554.303513,position,,[position],spatial
+0_Local_xcfhwds1,0,"I'm currently seeing a red chair, a green chair, and a black sofa. Could you tell me where I might be right now?",1749623555.803407,position,,[position],spatial
+0_Local_hngutrg3,0,"Where can I find an area with more than eight chairs to hold a discussion meeting?",1749623597.500571,position,,[position],spatial
+0_Local_3fsdfre8,0,"Where is the room that allows me to take out a bottle of drink and enjoy the view by the window?",1749623502.906983,position,,[position],spatial
+0_Local_kyuhsdfk,0,"Where can I find some books and sit on a nearby sofa to read them?",1749623555.803407,position,,[position],spatial
+0_Local_bvhjuo0k,0,"Where can I find a bar stool and a sofa to sit and relax?",1749623739.390986,position,,[position],spatial
+0_Local_32yttghy,0,"Where is the box located at the end of the hallway?",1749623788.287613,position,,[position],spatial
+0_Local_cxtr7987,0,"I currently see a bright window, a sofa, and some standing posters. Where am I located?",1749623489.207887,position,,[position],spatial
+0_Local_sdgfasdf,0,"Where is the area that has some tables and chairs, a window, and several trash bins leaning against the wall?",1749623600.800358,position,,[position],spatial
+0_Local_ascdqa23,0,"Could you please tell me where I can find an area that has exactly two chairs and one table?",1749623554.303513,position,,[position],spatial
+0_Local_jytfdert,0,"Where can I find a place where someone is currently getting water?",1749623501.607085,position,,[position],spatial
+0_Local_4y5dfgwe,0,"Where is the restroom that has some cleaning tools in front of its door?",1749623473.708941,position,,[position],spatial
+0_Local_rht34dge,0,"Where is the elevator that has a black garbage bag beside it?",1749623532.604976,position,,[position],spatial
+0__cdvsdr43,0,"I am currently located at [-0.50, -0.06, 0.82]. Where is the nearest place to heat up food?",1749623502.906983,position,,[position],spatial
+0_Global_dfvhrt43,0,"I am currently located at [-41.48, -71.00, 0.57]. Where is the nearest restroom?",1749623473.708941,position,,[position],spatial
+0_Global_8jgfw222,0,"I am currently located at [-43.91, -69.96, 0.53]. Where can I find a trash bin on my way to Room 423?",1749623501.607085,position,,[position],spatial
+0_Global_2eefhyt6,0,"I am currently located at [56.33, -132.13, 5.64]. Where is the elevator on my way to the Computer Science Department?",1749623709.292964,position,,[position],spatial
+0_Global_23wsdszx,0,"I am currently at the coordinates [-33.24, -155.21, -0.46]. Where is the nearest place where I can lie down on a sofa or a bench?",1749623554.303513,position,,[position],spatial
+0_Global_zxcser33,0,"I'm going from Room 423 to Room 426 for a meeting. Where can I get water?",1749623502.906983,position,,[position],spatial
+0_Global_54gfcfgt,0,"I am currently located at [-48.18, -58.59, 0.38]. Take me to the nearest emergency exit.",1749623473.708941,position,,[position],spatial
+0_Global_7iuyjbmm,0,"Where is the refrigerator located near the Department of Electronic and Electrical Engineering?",1749623502.906983,position,,[position],spatial
+0_Global_9uikhbvn,0,"If I start from the area with white partitions, where is the nearest elevator?",1749623414.812889,position,,[position],spatial
+0_Global_sdvssfd3,0,"Where is the nearest break room to the Department of CSE General Office?",1749623653.496764,position,,[position],spatial
+0_Global_sdbfwet2,0,"Where can I borrow some books along the way from the Department of Electronics to the Department of Computer Science?",1749623554.303513,position,,[position],spatial
+0_Global_vxdsz4sf,0,"Where is a staircase to go downstairs along the route from the Department of Electronics to the Department of Computer Science?",1749623557.403303,position,,[position],spatial
+0_Global_76hrnetd,0,"I am currently located at [-38.37, -100.91, 0.49]. Along the way to the Department of Computer Science's honor display area, where is there an open door?",1749623563.602891,position,,[position],spatial
+0_Global_v34sxde5,0,"I am currently located at [-19.22, -152.09, 0.40]. On my way to the Department of CSE General Office, where is there a black screen?",1749623664.3960333,position,,[position],spatial
+0_Global_ertbfvyu,0,"I am currently located at [35.53, -138.31, 4.79]. On my way to the Suslab, where can I find some boxes?",1749623687.594442,position,,[position],spatial
+1_Basic_gdfgre45,1,"Where is the mailroom in Student Dormitories Block 8?",1750211982.185949,position,,[position],spatial
+1_Basic_hghgdg5s,1,"Where can I find a sink to wash my hands?",1750212109.277306,position,,[position],spatial
+1_Basic_dxfd45gb,1,"I'm looking for a restaurant that hasn't opened yet. Do you know where it is?",1750212121.676463,position,,[position],spatial
+1_Basic_mbnfg5xw,1,"Where is the You Yue Hui supermarket located?",1750212217.769905,position,,[position],spatial
+1_Basic_234ewfxd,1,"Where is the Residential Colleges Mail Room located?",1750212316.963131,position,,[position],spatial
+1_Basic_65fcvxdr,1,"Where can I buy a plush toy for my daughter?",1750212326.262489,position,,[position],spatial
+1_Basic_556tbggd,1,"Where can I find a pink tree?",1750212385.158484,position,,[position],spatial
+1_Basic_78hgfvcd,1,"Where is the black table?",1750212400.657416,position,,[position],spatial
+1_Basic_xsdrwr43,1,"I need to give a presentation now. Where can I find a whiteboard?",1750212406.856989,position,,[position],spatial
+1_Basic_zsw32fxv,1,"I can't remember where I parked my red electric moped. Could you help me find it?",1750212437.854880,position,,[position],spatial
+1_Basic_235re4rc,1,"Where can I play Chinese chess with my friends?",1750212558.746641,position,,[position],spatial
+1_Basic_xeew3rgc,1,"Where can I play a game of snooker with my friends?",1750212561.846431,position,,[position],spatial
+1_Basic_6yftgftc,1,"My bicycle is broken. Where can I get it repaired?",1750212586.644737,position,,[position],spatial
+1_Basic_12w3edxx,1,"Where can I find a painting that depicts plum blossoms?",1750212710.636278,position,,[position],spatial
+1_Basic_87juhnvv,1,"Where the has blue chair been borrowed to?",1750212763.332694,position,,[position],spatial
+1_Local_bfsdfr5g,1,"I'm looking at a wooden bench and an outdoor fitness zone. Where am I exactly?",1750211879.992791,position,,[position],spatial
+1_Local_3rexdgrt,1,"Where can I find a scene of a girl buying something from a vending machine?",1750211997.684908,position,,[position],spatial
+1_Local_12wadzzc,1,"Where is there a bicycle parking area enclosed by a hedge?",1750212056.580935,position,,[position],spatial
+1_Local_90okimbb,1,"Where is the waste disposal area inside the restaurant?",1750212118.576666,position,,[position],spatial
+1_Local_ewsdxxvg,1,"Where can I go to reach the second floor of the dining hall?",1750212135.575521,position,,[position],spatial
+1_Local_6yfcvbyt,1,"Where can I put my umbrella before I go into the cafeteria to eat?",1750212140.275197,position,,[position],spatial
+1_Local_90ombvhg,1,"Where is the supermarket that has a place in front where I can park my bicycle?",1750212239.468445,position,,[position],spatial
+1_Local_3sdcesr3,1,"I am currently at the entrance of a building, with a recycling bin and a pile of cardboard boxes next to it. Could you tell me where I am right now?",1750212347.961011,position,,[position],spatial
+1_Local_vcxvdr44,1,"Where is the laundry room in Student Dormitory Block 4?",1750212428.555540,position,,[position],spatial
+1_Local_3rsvcxdf,1,"I'm shopping in a supermarket somewhere on campus, and there's an outdoor gym outside. Where exactly am I right now?",1750212515.349582,position,,[position],spatial
+1_Local_76uhfdte,1,"Where can I find a place that offers both bicycle repair services and a laundry room?",1750212580.445149,position,,[position],spatial
+1_Local_32rscgtu,1,"Where are the benches by the lakeside?",1750212645.540711,position,,[position],spatial
+1_Local_7uhfgbft,1,"Where can I find a staircase that will allow me to go up and get a better view of the lake?",1750212651.740305,position,,[position],spatial
+1_Local_dfg5t45d,1,"Is there a nice spot where my girlfriend and I can sit by the window and just chat away?",1750212701.336914,position,,[position],spatial
+1_Local_fghfh53d,1,"Where can I go upstairs to access the glasshouse?",1750212775.731859,position,,[position],spatial
+1_Global_2134ewqd,1,"I am currently located at [0.45, 3.93, 0.97]. Someone has fainted while working out. Where is the nearest AED?",1750211948.088239,position,,[position],spatial
+1_Global_xcvgftwz,1,"Where can I find an outdoor fitness area closest to the lakeside?",1750212540.147894,position,,[position],spatial
+1_Global_21e3r4td,1,"I am currently located at [-824.69, 596.20, -177.62]. On my way to the dining hall for a meal, where can I buy a Coke?",1750211997.684908,position,,[position],spatial
+1_Global_cxvdf4sc,1,"I am currently located at [-824.69, 596.20, -177.62]. I plan to go to You Yue Hui Supermarket. Where can I park and charge my electric moped first, and then walk over?",1750212053.481123,position,,[position],spatial
+1_Global_jyufjfg6,1,"I am currently located at [0.45, 3.93, 0.97]. I just finished working out. On my way to the dining hall for a meal, where can I wash my hands?",1750212109.277306,position,,[position],spatial
+1_Global_asgtyuil,1,"On my way back to Student Dormitory Block 4 after shopping at You Yue Hui Supermarket, where can I conveniently pick up my mail?",1750212316.963131,position,,[position],spatial
+1_Global_nmcxgzgs,1,"Someone is drowning by the lakeside. Where is the nearest AED?",1750212413.056574,position,,[position],spatial
+1_Global_zdgfdfhd,1,"Where can I find an outdoor gym that's relatively close to the supermarket?",1750212533.948315,position,,[position],spatial
+1_Global_o7ttyy45,1,"I'm going out from Dorm 4 to play pool. Do you know where I can grab a bottle of water nearby?",1750212515.349582,position,,[position],spatial
+1_Global_23swevfg,1,"Where is the nearest laundry room to Dormitory 4?",1750212428.555540,position,,[position],spatial
+1_Global_5gfvcbg5,1,"Where is the nearest reading area to Dormitory 4?",1750212685.837964,position,,[position],spatial
+1_Global_90iukbhf,1,"Where can I find the closest reading area to Dormitory 1?",1750212760.232910,position,,[position],spatial
+1_Global_dtyugjfj,1,"Where is the lakeside nearest to Dormitory 1?",1750212639.341138,position,,[position],spatial
+1_Global_23eazsdd,1,"Where is the nearest lake to You Yue Hui Supermarket?",1750212279.765702,position,,[position],spatial
+1_Global_2eascdvr,1,"Where is the nearest outdoor fitness area to Dormitory 1?",1750212537.048110,position,,[position],spatial
+2_Basic_nghjbhnt,2,"Where can I find a poster about magic?",1750212958.319557,position,,[position],spatial
+2_Basic_4tdvdg5g,2,"Where is an orange artistic staircase located?",1750213063.712437,position,,[position],spatial
+2_Basic_32fdsxvd,2,"Where can I play volleyball with my friends?",1750213088.510740,position,,[position],spatial
+2_Basic_23rscsf4,2,"Where is the police golf cart?",1750213395.389817,position,,[position],spatial
+2_Basic_uhm8jhj6,2,"I forgot where I parked my car. The license plate number is 3D93F. Could you help me locate it?",1750213398.489604,position,,[position],spatial
+2_Basic_1qaa32a3,2,"Where is a police motorcycle parked?",1750213401.589394,position,,[position],spatial
+2_Basic_cdf45gdf,2,"Where can I deposit my money?",1750213345.793271,position,,[position],spatial
+2_Basic_67ufghrt,2,"My neck is a bit sore. Where can I get acupuncture done?",1750213330.294273,position,,[position],spatial
+2_Basic_34trergd,2,"Where can I find a 30 km/h speed limit sign that has an electronic display?",1750213426.387705,position,,[position],spatial
+2_Basic_segrrsth,2,"Where can I find a long table?",1750213389.190239,position,,[position],spatial
+2_Basic_234erwer,2,"Where is the tennis court located?",1750213510.082018,position,,[position],spatial
+2_Basic_dfggrrte,2,"Where is the indoor basketball court?",1750213147.406736,position,,[position],spatial
+2_Basic_6ttfdeer,2,"Where can I find the temporary storage lockers?",1750213110.209263,position,,[position],spatial
+2_Basic_7ju67utg,2,"Where can I spot a cyclist wearing a black helmet?",1750213426.387705,position,,[position],spatial
+2_Basic_dtt45tdd,2,"Where can I see a pedestrian wearing a black hat and a white top?",1750213023.415170,position,,[position],spatial
+2_Local_fjnyacef,2,"I see a staircase, a bulletin board, and some vines. Where might I be right now?",1750213014.115803,position,,[position],spatial
+2_Local_34534crc,2,"If I go to play volleyball, where can I temporarily store my bag?",1750213110.209263,position,,[position],spatial
+2_Local_3cr23335,2,"Where is the golf cart near the indoor basketball court?",1750213156.706111,position,,[position],spatial
+2_Local_75vrt5wv,2,"Where can I find a family of three admiring the lotus flowers?",1750213221.801660,position,,[position],spatial
+2_Local_qwer34qv,2,"Where is the staircase near the swimming pool that leads to it?",1750213262.098933,position,,[position],spatial
+2_Local_735vw5qv,2,"Where is the golf cart in front of the Admission Office?",1750213286.897231,position,,[position],spatial
+2_Local_34vwrsvr,2,"Where is the bulletin board in front of the Admission Office? I'd like to get some information.",1750213299.296358,position,,[position],spatial
+2_Local_8nm5ebw5,2,"Where is the cyclist passing by the bulletin board?",1750213007.916213,position,,[position],spatial
+2_Local_tv6wwvwb,2,"I'm planning to go to the police station to handle some business. Where can I park my car?",1750213401.589394,position,,[position],spatial
+2_Local_3vw4t456,2,"Where can I sit under a big tree to cool off?",1750213448.086227,position,,[position],spatial
+2_Local_4wwvts6b,2,"It's raining now. Where can I sit to take shelter from the rain?",1750213389.190239,position,,[position],spatial
+2_Local_346v4tsr,2,"Where can I turn right to get to the Office Building?",1750213429.487487,position,,[position],spatial
+2_Local_6ubrtbey,2,"Where is the road that leads to the hillside for a picnic?",1750213454.285789,position,,[position],spatial
+2_Local_6ebdtrbr,2,"Where is the entrance to the outdoor basketball court? I've been looking for it for ages but can't seem to find it.",1750213469.784746,position,,[position],spatial
+2_Local_7bdrbsvy,2,"Where is the bulletin board that is advertising an academic report?",1750213299.296358,position,,[position],spatial
+2_Global_vbrvdfgr,2,"The volleyball hall is on fire. Where is the nearest fire hydrant?",1750213082.311176,position,,[position],spatial
+2_Global_4feertgd,2,"Where are the stairs closest to the volleyball hall?",1750213063.712437,position,,[position],spatial
+2_Global_v4dsfvsr,2,"Where is the basketball court closest to the lake?",1750213147.406736,position,,[position],spatial
+2_Global_u76utrhd,2,"Where is the golf cart closest to the swimming pool?",1750213286.897231,position,,[position],spatial
+2_Global_12eaqwds,2,"I am currently located at [-109.24, 70.70, 5.34]. On my way to the community health center, where can I find a golf cart?",1750213286.897231,position,,[position],spatial
+2_Global_vetvcecr,2,"I'm playing basketball outdoors, but now it's pouring rain. Where can I find a place to take shelter nearby?",1750213389.190239,position,,[position],spatial
+2_Global_srwr323r,2,"Where is the nearest fire hydrant to the Boxing Gym?",1750213045.113707,position,,[position],spatial
+2_Global_sdf4ragr,2,"On my way from the Admission Office to the police station, where might I find a parked bicycle?",1750213333.394079,position,,[position],spatial
+2_Global_tyhdgdgs,2,"On my way from the police station to the tennis court, where might I spot a parked electric moped?",1750213401.589394,position,,[position],spatial
+2_Global_23rswffr,2,"On my way from the police station to the tennis court, where might I see someone riding a bicycle?",1750213426.387705,position,,[position],spatial
+2_Global_dgdrt4sd,2,"Where is the golf cart closest to the bank?",1750213395.389817,position,,[position],spatial
+2_Global_zwrdsfs4,2,"Where is the trash bin closest to the volleyball hall?",1750213159.805906,position,,[position],spatial
+2_Global_54gddg55,2,"I am currently located at [50.69, 64.20, -0.51]. On my way to the Boxing Gym, where can I conveniently stop and park my electric moped?",1750213038.914190,position,,[position],spatial
+2_Global_jyuikybd,2,"Where is the staircase closest the to Boxing Gym? I want to go upstairs to enjoy the view after my boxing session.",1750213063.712437,position,,[position],spatial
+2_Global_23rsff44,2,"Someone has been injured at the outdoor basketball court. Where is the nearest medical center?",1750213330.294273,position,,[position],spatial
+3_Basic_vareeree,3,"Where can I find a charging station for a new energy vehicle?",1750213609.475248,position,,[position],spatial
+3_Basic_egrstvw4,3,"Where can I find a Toyota SUV?",1750213621.874403,position,,[position],spatial
+3_Basic_by456vvc,3,"Where is the Expert Apartment Bus Stop?",1750213711.768290,position,,[position],spatial
+3_Basic_i674bbvv,3,"Where is the parking lot exit?",1750213755.165333,position,,[position],spatial
+3_Basic_qvy345c2,3,"Where is the baby stroller?",1750213919.354125,position,,[position],spatial
+3_Basic_vwy45cvu,3,"Where can I find the yellow 'SUSTech' font?",1750214086.742711,position,,[position],spatial
+3_Basic_o578n4i7,3,"Where can I work out?",1750213927.0536022,position,,[position],spatial
+3_Basic_5nin467w,3,"Where is the kindergarten?",1750213931.753274,position,,[position],spatial
+3_Basic_w4vy5vv4,3,"Where can I find a hair salon?",1750214092.942293,position,,[position],spatial
+3_Basic_beu563vc,3,"Where can I find a wooden bar stool?",1750213851.258774,position,,[position],spatial
+3_Basic_3qrx2t54,3,"Where can I find a wall covered in vines?",1750213615.674844,position,,[position],spatial
+3_Basic_67inveww,3,"Where can I print my resume?",1750214086.742711,position,,[position],spatial
+3_Basic_3vy65v34,3,"Where can I find a wooden shelf?",1750214086.742711,position,,[position],spatial
+3_Basic_rtu65vgf,3,"Where is the restroom with the yellow exterior wall?",1750214058.844610,position,,[position],spatial
+3_Basic_786nrbur,3,"Where can I find some dark brown tables?",1750213984.449685,position,,[position],spatial
+3_Local_benu567d,3,"Where is the bus stop near the tennis court?",1750213578.477355,position,,[position],spatial
+3_Local_wv4346vy,3,"Where is the golf cart parked next to the zebra crossing?",1750213686.969971,position,,[position],spatial
+3_Local_ct34qt34,3,"Where is the bus stop that has two trash bins and some vines on the shelter's roof?",1750213708.668528,position,,[position],spatial
+3_Local_wev4evwy,3,"Where is the room that has some potted plants and a table placed in the center?",1750213852.7586758,position,,[position],spatial
+3_Local_in78drty,3,"Where does it look like a dining area with lots of tables?",1750213984.449685,position,,[position],spatial
+3_Local_caet434h,3,"Where is the air conditioner inside the staff restaurant?",1750213990.649340,position,,[position],spatial
+3_Local_verwet46,3,"Where is the area with tables and chairs, as well as transparent windows that offer a view of the scenery outside?",1750213987.549472,position,,[position],spatial
+3_Local_qcrt34fe,3,"Where can I find enough parking spaces to park my vehicle?",1750213609.475248,position,,[position],spatial
+3_Local_i5678dd6,3,"Where can I access the open-air terrace on the second floor?",1750213829.560250,position,,[position],spatial
+3_Local_2v45tyyg,3,"There are yellow and green walls around me. Could you tell me where I am?",1750213906.956084,position,,[position],spatial
+3_Local_imno678d,3,"I see reflective floor-to-ceiling windows, a lawn, and an asphalt road. Where am I right now?",1750213798.562364,position,,[position],spatial
+3_Local_3t4vcdt5,3,"Where is the zebra crossing near the exit of the underground parking lot?",1750213748.965748,position,,[position],spatial
+3_Local_t45c235b,3,"Where is the golf cart next to the charging station?",1750213603.275671,position,,[position],spatial
+3_Local_8io7evdr,3,"Where is the trash bin near the Life Service Center?",1750214074.343556,position,,[position],spatial
+3_Local_wv4uy567,3,"Where can I go upstairs in Teacher's Dormitory Building Three?",1750214074.343556,position,,[position],spatial
+3_Global_gsve34eg,3,"Where is the golf cart closest to the tennis court?",1750213600.175882,position,,[position],spatial
+3_Global_c34qrfse,3,"Where is the parking lot nearest to the tennis court?",1750213612.575089,position,,[position],spatial
+3_Global_ijn67dfs,3,"Where can I find a golf cart on the way from the faculty club to the Chinese restaurant?",1750213860.558143,position,,[position],spatial
+3_Global_eqtv34df,3,"Where can I find a place to sit on a chair on the way from the kindergarten to the Chinese restaurant?",1750213851.258774,position,,[position],spatial
+3_Global_mo678be5,3,"Where can I get to the underground parking lot on the first basement level after I get my hair cut?",1750214077.443351,position,,[position],spatial
+3_Global_ctw4yevv,3,"Where can I go upstairs to enjoy the view on the way from the kindergarten to the football field?",1750213829.560250,position,,[position],spatial
+3_Global_w45vy6v4,3,"Where is the restroom nearest to the football field? I can hardly hold it any longer.",1750213857.458348,position,,[position],spatial
+3_Global_gdrsfvee,3,"My friend is waiting for me to have a meal at a restaurant with many wooden dining tables. Where is the nearest bicycle parking area?",1750213999.948630,position,,[position],spatial
+3_Global_fw345te6,3,"Where can I park nearby if I'm heading to the Ulife Service Centre? It doesn't have to be a formal parking lot.",1750214117.740605,position,,[position],spatial
+3_Global_m87ervew,3,"Where is the nearest bus stop to the underground parking lot?",1750213711.768290,position,,[position],spatial
+3_Global_r23x5ry5,3,"Where is the nearest place to sit closest to the football field?",1750213851.258774,position,,[position],spatial
+3_Global_hi578fw5,3,"Where is the fire hydrant located between the two bus stops?",1750213659.071907,position,,[position],spatial
+3_Global_esvwev46,3,"I'm going to play tennis. Where is the nearest place to park?",1750213612.575089,position,,[position],spatial
+3_Global_3qx434sd,3,"Where is the nearest restaurant to the Ulife Service Centre?",1750213987.549472,position,,[position],spatial
+3_Global_egrsv4g8,3,"Where is the nearest restroom to the faculty club?",1750214058.844610,position,,[position],spatial
+4_Basic_gsdvsde3,4,"Where can I print my resume?",1750314265.408110,position,,[position],spatial
+4_Basic_vdxgtr4s,4,"Where is the black storage locker?",1750314280.907056,position,,[position],spatial
+4_Basic_789fghcd,4,"Where is the yellow banner?",1750314315.004766,position,,[position],spatial
+4_Basic_zxfwer3s,4,"Where can I find a white van?",1750314523.711063,position,,[position],spatial
+4_Basic_hjbfgt6f,4,"Where can you find a tricycle?",1750314573.307667,position,,[position],spatial
+4_Basic_rdgvdvet,4,"Where is the entrance of P1?",1750313995.726532,position,,[position],spatial
+4_Basic_cdegrsce,4,"Where is the poster supported by a wooden frame?",1750314218.911261,position,,[position],spatial
+4_Basic_jnygy766,4,"Where is a computer monitor?",1750314411.098264,position,,[position],spatial
+4_Basic_345tvfdf,4,"I forgot where I put my umbrella. I remember it was open and leaning on the ground. Could you help me find it?",1750314342.902860,position,,[position],spatial
+4_Basic_imuy7gf4,4,"Where is the elevator with white doors?",1750314395.599317,position,,[position],spatial
+4_Basic_edxewdw3,4,"Where is the trash bin with a brown shell?",1750314706.598527,position,,[position],spatial
+4_Basic_efrtwww3,4,"Where can I buy a cup of coffee?",1750314299.505790,position,,[position],spatial
+4_Basic_tuyitnnt,4,"Where is the river?",1750314722.097467,position,,[position],spatial
+4_Basic_ev5ry4yd,4,"Where is the small electric van?",1750314008.125692,position,,[position],spatial
+4_Basic_f3qrw2ca,4,"Where can I heat up the food?",1750314377.000590,position,,[position],spatial
+4_Local_rmi67fut,4,"Where can I hold a group discussion near a vending machine that we can sit by?",1750314417.297859,position,,[position],spatial
+4_Local_vqrw324s,4,"Where is a parking area with a trash bin nearby?",1750314442.096188,position,,[position],spatial
+4_Local_vwc34r4s,4,"Where can I order a drink and sit down to chat with friends?",1750314299.505790,position,,[position],spatial
+4_Local_8imn7rfh,4,"Where can I heat up my bento box and get a cup of hot water?",1750314377.000590,position,,[position],spatial
+4_Local_bu56deeg,4,"Where are the seats near the exhibition area?",1750314417.297859,position,,[position],spatial
+4_Local_egdgdvet,4,"Where can I find two golf carts?",1750314505.112315,position,,[position],spatial
+4_Local_htyfgrdv,4,"I'm taking a walk by the river. Where can I find a trash bin nearby?",1750314706.598527,position,,[position],spatial
+4_Local_rgedvrgr,4,"Where is the only open door in a dimly lit corridor?",1750314355.302031,position,,[position],spatial
+4_Local_2c43cs3d,4,"Where is the pantry at the end of the dimly lit corridor?",1750314377.000590,position,,[position],spatial
+4_Local_aqesdgv3,4,"Where is a bicycle that can carry cargo parked under a metal-roofed shelter?",1750314576.407453,position,,[position],spatial
+4_Local_sdg23sdf,4,"Where can I find a warning sign on the trail?",1750314585.706799,position,,[position],spatial
+4_Local_b76ergec,4,"Where is the bus stop with a shelter?",1750314632.203698,position,,[position],spatial
+4_Local_87ihdryd,4,"I saw a blue trash bin and a small electric van. Could you tell me where I am now?",1750314014.325291,position,,[position],spatial
+4_Local_fgdhr5yx,4,"Where is the storage locker under the staircase?",1750314259.208515,position,,[position],spatial
+4_Local_efgrwadq,4,"Where is the elevator that has a fire extinguisher nearby?",1750314290.206448,position,,[position],spatial
+4_Global_rygvdstf,4,"I am currently located at [21.33, -115.02, 1.56]. Where is the nearest place for me to charge my electric bike?",1750314039.123558,position,,[position],spatial
+4_Global_ehrtvewr,4,"I am currently located at [21.33, -115.02, 1.56]. Where is the nearest water dispenser to me?",1750314187.913378,position,,[position],spatial
+4_Global_brytvrew,4,"Where is the elevator nearest to the Luckin Coffee shop?",1750314290.206448,position,,[position],spatial
+4_Global_5b6usetr,4,"Where is the storage locker nearest to the Department of Earth and Space Sciences?",1750314315.004766,position,,[position],spatial
+4_Global_ubyedvsr,4,"I am currently located at [21.33, -115.02, 1.56]. Where can I find a nearby place with seating to hold a group discussion?",1750314209.611910,position,,[position],spatial
+4_Global_edrvy643,4,"I am currently located at [23.86, -67.19, 2.08]. Where is the nearest vending machine?",1750314262.308318,position,,[position],spatial
+4_Global_v54ywvdy,4,"I am currently located at [21.33, -115.02, 1.56]. Where is the nearest staircase or elevator that I can use to go upstairs?",1750314175.514222,position,,[position],spatial
+4_Global_v6tev45y,4,"I am currently located at [21.33, -115.02, 1.56]. Where is the nearest restroom?",1750314200.312539,position,,[position],spatial
+4_Global_vydeui9t,4,"I am currently located at [49.32, 28.99, 1.94]. Where is the nearest vending machine on my way to the Department of Earth and Space Sciences?",1750314414.198076,position,,[position],spatial
+4_Global_3ctcysre,4,"I am currently located at [49.32, 28.99, 1.94]. Where can I find a golf cart on my way to the bus station?",1750314511.311891,position,,[position],spatial
+4_Global_casrwetr,4,"Where is the crosswalk between the two bus stops?",1750314672.500868,position,,[position],spatial
+4_Global_c57vvr65,4,"Where is the bus stop nearest to the river?",1750314697.299166,position,,[position],spatial
+4_Global_sdvswgsf,4,"I am currently located at [80.61, 67.96, -7.37]. Where is the nearest place to dispose of the trash I'm holding?",1750314435.896603,position,,[position],spatial
+4_Global_vserrf32,4,"Where is the electric van nearest to the area for charging electric vehicles?",1750314011.225479,position,,[position],spatial
+4_Global_bnu7rr23,4,"I am currently located at [76.46, -100.81, 1.81]. Where is the nearest place to purchase a can of cola?",1750314262.308318,position,,[position],spatial
+5_Basic_btyjscee,5,"Where is the pedestrian wearing a T-shirt with a red cross?",1750497811.720087,position,,[position],spatial
+5_Basic_c23r4ara,5,"Where is the dark grey bulletin board with a screen?",1750498109.299798,position,,[position],spatial
+5_Basic_x21axqwe,5,"Where is the digital display screen that shows a teacher's portrait?",1750498022.505692,position,,[position],spatial
+5_Basic_x14qwada,5,"Where is Entrance A2 of Lecture Hall 1?",1750498344.883720,position,,[position],spatial
+5_Basic_crv235sr,5,"Where is the pedestrian with a camera on her shoulder?",1750497833.418605,position,,[position],spatial
+5_Basic_r23cwsef,5,"Where is the College of Science Mailroom?",1750497569.936500,position,,[position],spatial
+5_Basic_ertvsare,5,"Where is someone currently riding a bicycle?",1750497644.331464,position,,[position],spatial
+5_Basic_d1234xqa,5,"Where is the bulletin board that has multiple screens?",1750497697.027877,position,,[position],spatial
+5_Basic_b56dsxs3,5,"Where is the library located?",1750497731.125546,position,,[position],spatial
+5_Basic_2c35radf,5,"Can you guide me to Starbucks?",1750497755.923873,position,,[position],spatial
+5_Basic_wesdawef,5,"Where is a SUSTech logo embellished with plants?",1750498152.696834,position,,[position],spatial
+5_Basic_wfdgxz3s,5,"Where is the AED located?",1750497656.730615,position,,[position],spatial
+5_Basic_8n79fvw3,5,"Where is the administration building located?",1750497616.433364,position,,[position],spatial
+5_Basic_cwec34s3,5,"Where is the Cryo-Electron Microscopy Center located?",1750497929.512022,position,,[position],spatial
+5_Basic_ctwet43s,5,"Where can I find a four-wheeled food delivery cart?",1750498137.197901,position,,[position],spatial
+5_Local_xvew23sd,5,"Where is the golf cart with two elderly passengers on board?",1750497700.127671,position,,[position],spatial
+5_Local_n6789tnd,5,"Where are multiple golf carts parked?",1750497653.630829,position,,[position],spatial
+5_Local_ev5dyhjd,5,"Where is a lit screen with seats positioned opposite?",1750497951.210554,position,,[position],spatial
+5_Local_m6n7o8dt,5,"My friend informed me that he is at the white table near the vending machine and the yellow warning sign. Could you please guide me there to find him?",1750498239.490923,position,,[position],spatial
+5_Local_qr3rafr4,5,"Where is the place with a pile of black boxes and a row of reflective rectangular windows?",1750498378.981392,position,,[position],spatial
+5_Local_4b768ryy,5,"Where is the parking area near Entrance A2 of Lecture Hall 1?",1750498347.983596,position,,[position],spatial
+5_Local_ec34tew4,5,"There is a bulletin board a with screen and a golf cart in front of me. Could you tell me where I am now?",1750497697.027877,position,,[position],spatial
+5_Local_v56evvs4,5,"Where can you find some posters in front of the floor-to-ceiling windows?",1750497979.108654,position,,[position],spatial
+5_Local_b67btdr3,5,"Where is the only vending machine located in a relatively dimly lit area?",1750497768.323083,position,,[position],spatial
+5_Local_x34xx2c3,5,"Where are the colorful stools leaning against the wall and the two white tables pushed together?",1750498239.490923,position,,[position],spatial
+5_Local_bu567ett,5,"Where is the restroom at the end of the dimly lit corridor?",1750498267.389010,position,,[position],spatial
+5_Local_x3423sw3,5,"I see some electric bikes parked under a staircase and a few outdoor air conditioning units. Where am I currently located?",1750498307.686272,position,,[position],spatial
+5_Local_2x3cqx45,5,"Where is the fire cabinet located outside the mailroom?",1750497573.036290,position,,[position],spatial
+5_Local_hj675ve4,5,"Where are the tables and chairs, and is there a vending machine nearby?",1750498239.490923,position,,[position],spatial
+5_Local_cw5r453s,5,"Where can you see a light shining through a glass door and the view outside?",1750497994.607585,position,,[position],spatial
+5_Global_6b5ebvxd,5,"Where is the nearest vending machine to the library?",1750497768.323083,position,,[position],spatial
+5_Global_3qrxas3z,5,"Where is the iron trash bin along the way from Starbucks to the College of Life Sciences?",1750497821.019446,position,,[position],spatial
+5_Global_v3b65yxd,5,"Where is the nearest place to sit near the Cryo-Electron Microscopy Center?",1750497951.210554,position,,[position],spatial
+5_Global_cw45dfty,5,"I am currently located at [-188.90, 95.99, 0.95]. Where along the way to the Cryo-Electron Microscopy Center can I find a stone bench to sit on?",1750497886.115048,position,,[position],spatial
+5_Global_qwegfazd,5,"Where is the nearest trash bin to the Subway? I want to throw away my empty drink.",1750498121.698956,position,,[position],spatial
+5_Global_23svsawe,5,"I am currently located at [-219.07, 128.05, 2.29]. Where is the nearest restroom?",1750498267.389010,position,,[position],spatial
+5_Global_zcfvwe34,5,"I am currently located at [-219.07, 128.05, 2.29]. Where is the nearest vending machine?",1750498233.291339,position,,[position],spatial
+5_Global_zxdsga32,5,"Where is the nearest golf cart to the administration building?",1750497644.331464,position,,[position],spatial
+5_Global_hrtaZa23,5,"I am currently located at [-32.66, 58.36, 1.13]. Where can I find a white van on my way to the College of Science?",1750497597.834612,position,,[position],spatial
+5_Global_78kggty7,5,"Where is the nearest place to go upstairs after shopping at Subway?",1750498149.597069,position,,[position],spatial
+5_Global_cdfgyn56,5,"Where is the nearest printer to Lecture Hall 1?",1750498227.091772,position,,[position],spatial
+5_Global_w4s5dtrf,5,"Where is the elevator located in the School of Life Sciences building?",1750498016.306116,position,,[position],spatial
+5_Global_ffrty444,5,"I am currently located at [-87.56, 79.08, 1.63]. Where can I buy coffee nearby?",1750497755.923873,position,,[position],spatial
+5_Global_dszfrger,5,"I am currently located at [-206.23, 113.13, 1.32]. There is a fire here. Where is the nearest fire extinguisher?",1750498267.389010,position,,[position],spatial
+5_Global_zdsfbv34,5,"I am currently located at [-179.89, 104.30, 0.94]. Where can I find a photography enthusiast to take a photo of me nearby?",1750497833.418605,position,,[position],spatial
+
+
+
